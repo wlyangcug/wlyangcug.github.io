@@ -5,7 +5,7 @@ baseurl:
 url: https://wlyangcug.github.io
 date_format: "ordinal"
 title: 王姜
-subtitle: "公众号：请等待。。。"
+subtitle: "努力奋斗奔小康"
 description: "王姜的个人博客"
 keywords: 王姜, WJ
 timezone: Asia/Shanghai
@@ -120,17 +120,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: wlyangcug
+    repo: comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: e9a0ff23dd8ebe476759
+        client_secret: 7661b53fe3b21b7e6c8635aefafe5ea88a39a28d
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: wlyangcug
+    repo: comments
+    clientID: e9a0ff23dd8ebe476759
+    clientSecret: 7661b53fe3b21b7e6c8635aefafe5ea88a39a28d
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
