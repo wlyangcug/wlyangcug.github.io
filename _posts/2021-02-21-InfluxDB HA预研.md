@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Java 日期类常用写法小结
-categories: Java
-description: Java 常用的日期类 Date、Calendar 和 SimpleDateFormat 的常用写法总结。
-keywords: Java, 日期
+title: InfluxDB HA 方法预研
+categories: InfuxDB
+description: InfluxDB 服务高可用方法
+keywords: InfluxDB, 时序数据库
 ---
 
 # InfluxDB HA 方法预研
