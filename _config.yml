@@ -123,14 +123,14 @@ gitment:
     owner: wlyangcug
     repo: comments
     oauth:
-        client_id: e9a0ff23dd8ebe476759
-        client_secret: 7661b53fe3b21b7e6c8635aefafe5ea88a39a28d
+        client_id: 977d57dcbaf6581f4530
+        client_secret: e0a13f35542490197dcf536526588f8eb94499d3
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: wlyangcug
     repo: comments
-    clientID: e9a0ff23dd8ebe476759
-    clientSecret: 7661b53fe3b21b7e6c8635aefafe5ea88a39a28d
+    clientID: 977d57dcbaf6581f4530
+    clientSecret: e0a13f35542490197dcf536526588f8eb94499d3
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
